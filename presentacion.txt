@@ -2,3 +2,4 @@ Nombre: Jhon Edwin Angulo
 Programa: Ingeniería de Sistemas
 Lenguaje elegido: Python
 Descripción del proyecto: Creación de una calculadora geométrica básica para calcular áreas y perímetros.
+Fecha: 16/05/2026
