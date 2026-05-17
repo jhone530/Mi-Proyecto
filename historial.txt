@@ -1,0 +1,4 @@
+* 6664cc5 feat: agregar funcion calcular perimetro rectangulo
+* 37e990c feat: agregar funcion calcular area rectangulo
+* 70cd2be docs: agregar fecha al archivo de presentación
+* 28c7b31 feat: agregar presentación Proyecto
